@@ -37,4 +37,4 @@
    - **Use Case:** Used for interpreting black-box models like XGBoost and neural networks to gain insights into feature contributions.
 
 ### 10. **Keras**
-   - **Description:** Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK,
+   - **Description:** Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK.
